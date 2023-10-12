@@ -1,5 +1,11 @@
 # 💫 About Me:
-Estou cursando Desenvolvimento de Sistemas no Senai a procura do meu primeiro emprego em TI
+Sou estudante de tecnologia e estou embarcando no mundo do desenvolvimento web. Possuo habilidades sólidas em HTML, CSS e JavaScript para criar páginas web interativas e visualmente atrativas.
+
+Além disso, tenho experiência com Python, React e Node.js, o que me permite desenvolver aplicações simples e funcionais. Estou familiarizado com o gerenciamento básico de bancos de dados MySQL, garantindo a organização eficaz de dados.
+
+Minha compreensão de Redes de Computadores permite-me navegar pelo ambiente online de maneira eficiente. Também estou confortável trabalhando no sistema operacional Windows.
+
+Estou animado para continuar aprendendo e aprimorando minhas habilidades no desenvolvimento, ansioso para contribuir com projetos e expandir minha experiência profissional.
 
 
 ## 🌐 Socials:
