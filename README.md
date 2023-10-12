@@ -1,11 +1,11 @@
 # 💫 About Me:
-Sou estudante de tecnologia e estou embarcando no mundo do desenvolvimento web. Possuo habilidades sólidas em HTML, CSS e JavaScript para criar páginas web interativas e visualmente atrativas.
+Sou estudante de tecnologia e desenvolvimento web, com conhecimentos sólidos em HTML, CSS e JavaScript para criar páginas web interativas. Além disso, possuo experiência prática com Python, React e Node.js para desenvolver aplicações funcionais.
 
-Além disso, tenho experiência com Python, React e Node.js, o que me permite desenvolver aplicações simples e funcionais. Estou familiarizado com o gerenciamento básico de bancos de dados MySQL, garantindo a organização eficaz de dados.
+Utilizo o Figma para prototipagem, transformando ideias em designs visuais antes de iniciar o desenvolvimento, garantindo uma abordagem mais eficiente e centrada no usuário.
 
-Minha compreensão de Redes de Computadores permite-me navegar pelo ambiente online de maneira eficiente. Também estou confortável trabalhando no sistema operacional Windows.
+Minha experiência inclui o gerenciamento básico de bancos de dados MySQL e uma compreensão prática de Redes de Computadores. No ambiente Windows, sinto-me confortável navegando e trabalhando.
 
-Estou animado para continuar aprendendo e aprimorando minhas habilidades no desenvolvimento, ansioso para contribuir com projetos e expandir minha experiência profissional.
+Estou comprometido em aprender continuamente e expandir minhas habilidades no desenvolvimento. Ansioso para contribuir com projetos desafiadores e crescer profissionalmente.
 
 
 ## 🌐 Socials:
